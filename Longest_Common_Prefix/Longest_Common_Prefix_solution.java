@@ -1,3 +1,5 @@
+package Longest_Common_Prefix;
+
 import java.util.Arrays;
 import java.util.Comparator;
 
