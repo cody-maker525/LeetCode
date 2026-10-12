@@ -1,0 +1,11 @@
+2 Lowercase letters
+Input in the lowercase letters you would like to count in a string and show how many are in a
+string.
+Example 1
+Input: a,b,c,e
+S1: “maps”
+Output: the string has one lowercase letter defined by me
+Example 2
+Input: b, c, d e
+S2: “this is a string”
+Output: the string has 0 lowercase letters defined by me

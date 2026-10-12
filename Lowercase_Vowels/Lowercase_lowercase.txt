@@ -1,0 +1,6 @@
+1. Lowercase vowels
+Write a program that shows how many lowercase vowels are in a string. Example 1, S1
+=“abbba"
+Output: the string has 2 lowercase vowels
+Example 2, S2 = “ABBA”
+Output: the string does not have lowercase vowels
